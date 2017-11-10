@@ -21,7 +21,7 @@ public class Main extends AppCompatActivity {
         public void onClick(View v) {
             Intent intent=new Intent("com.example.snehareddy.simple.Main2");
             startActivity(intent);
-            //text here not neccessary
+            //text here not neccessary files
         }
     });
     }
